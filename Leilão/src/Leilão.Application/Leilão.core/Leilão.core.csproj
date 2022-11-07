@@ -10,4 +10,10 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\Leilão.Domain\Leilão.Domain.csproj" />
+    <ProjectReference Include="..\..\Leilão.Infra.Data\Leilão.Data.csproj" />
+    <ProjectReference Include="..\..\Leilão.Service\Leilão.Service.csproj" />
+  </ItemGroup>
+
 </Project>

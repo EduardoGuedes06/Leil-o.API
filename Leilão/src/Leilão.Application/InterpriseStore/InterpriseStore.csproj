@@ -33,6 +33,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\Leilão.Domain\Leilão.Domain.csproj" />
     <ProjectReference Include="..\interprise.Domain\interprise.Domain.csproj" />
     <ProjectReference Include="..\interprise.Infra.Data\Interprise.Data.csproj" />
     <ProjectReference Include="..\interprise.Service\interprise.Service.csproj" />

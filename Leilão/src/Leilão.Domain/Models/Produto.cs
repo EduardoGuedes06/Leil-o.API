@@ -11,19 +11,19 @@ namespace Business.Models
 
     public class Produto : Entity
     {
-       
 
         public Guid CategoriaId { get; set; }
+        public string Nome { get; set; }
 
-        public string Descricao { get; set; }
+        //public string foto { get; set; }
+        public string edital { get; set; }
+        public string comitentes { get; set; }
 
-        public int Preco { get; set; }
+        public string meta { get; set; }
 
-        public bool Ativo { get; set; }
+        public string acressimo { get; set; }
 
-        //public DateTime DataCadastro = DateTime.Now;
-
-        /* EF Relations */
+        public string natureza { get; set; }
         public Categoria Categoria { get; set; }
 
     }

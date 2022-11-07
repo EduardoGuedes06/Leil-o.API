@@ -1984,10 +1984,10 @@
           }
         }
       },
-      "NuGet.Common/6.3.0": {
+      "NuGet.Common/6.2.1": {
         "type": "package",
         "dependencies": {
-          "NuGet.Frameworks": "6.3.0"
+          "NuGet.Frameworks": "6.2.1"
         },
         "compile": {
           "lib/netstandard2.0/NuGet.Common.dll": {
@@ -2000,10 +2000,10 @@
           }
         }
       },
-      "NuGet.Configuration/6.3.0": {
+      "NuGet.Configuration/6.2.1": {
         "type": "package",
         "dependencies": {
-          "NuGet.Common": "6.3.0",
+          "NuGet.Common": "6.2.1",
           "System.Security.Cryptography.ProtectedData": "4.4.0"
         },
         "compile": {
@@ -2034,7 +2034,7 @@
           }
         }
       },
-      "NuGet.Frameworks/6.3.0": {
+      "NuGet.Frameworks/6.2.1": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/NuGet.Frameworks.dll": {
@@ -2064,12 +2064,12 @@
           }
         }
       },
-      "NuGet.Packaging/6.3.0": {
+      "NuGet.Packaging/6.2.1": {
         "type": "package",
         "dependencies": {
           "Newtonsoft.Json": "13.0.1",
-          "NuGet.Configuration": "6.3.0",
-          "NuGet.Versioning": "6.3.0",
+          "NuGet.Configuration": "6.2.1",
+          "NuGet.Versioning": "6.2.1",
           "System.Security.Cryptography.Cng": "5.0.0",
           "System.Security.Cryptography.Pkcs": "5.0.0"
         },
@@ -2100,10 +2100,10 @@
           }
         }
       },
-      "NuGet.Protocol/6.3.0": {
+      "NuGet.Protocol/5.11.0": {
         "type": "package",
         "dependencies": {
-          "NuGet.Packaging": "6.3.0"
+          "NuGet.Packaging": "5.11.0"
         },
         "compile": {
           "lib/net5.0/NuGet.Protocol.dll": {
@@ -2116,7 +2116,7 @@
           }
         }
       },
-      "NuGet.Versioning/6.3.0": {
+      "NuGet.Versioning/6.2.1": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/NuGet.Versioning.dll": {
@@ -3853,48 +3853,17 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "Interprise.Data/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore": "6.0.9",
-          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.9",
-          "NuGet.Protocol": "6.3.0",
-          "interprise.Domain": "1.0.0",
-          "interprise.Service": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Interprise.Data.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Interprise.Data.dll": {}
-        }
-      },
-      "interprise.Domain/1.0.0": {
+      "Leilão.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "FluentValidation.AspNetCore": "11.2.2"
         },
         "compile": {
-          "bin/placeholder/interprise.Domain.dll": {}
+          "bin/placeholder/Leilão.Domain.dll": {}
         },
         "runtime": {
-          "bin/placeholder/interprise.Domain.dll": {}
-        }
-      },
-      "interprise.Service/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "FluentValidation.AspNetCore": "11.2.2",
-          "interprise.Domain": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/interprise.Service.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/interprise.Service.dll": {}
+          "bin/placeholder/Leilão.Domain.dll": {}
         }
       }
     }
@@ -6185,37 +6154,41 @@
         "newtonsoft.json.bson.nuspec"
       ]
     },
-    "NuGet.Common/6.3.0": {
-      "sha512": "L/Fz6+UwUP+fO70h+0s071iG2PFjfMWhttWCcvy22xNWptyhqAQz+Z4KDoHB9XnO7gVhSERTbJ43rVxUv1ZCQQ==",
+    "NuGet.Common/6.2.1": {
+      "sha512": "qmC7zVUdYaz1lE4tw4dceTFnmVho36tut8R/gvxLIixtjGhIZDIvdo4wUUIDLXrDxublaQYMay1+QotTOUIj8g==",
       "type": "package",
-      "path": "nuget.common/6.3.0",
+      "path": "nuget.common/6.2.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "README.md",
         "icon.png",
+        "lib/net45/NuGet.Common.dll",
+        "lib/net45/NuGet.Common.xml",
         "lib/net472/NuGet.Common.dll",
         "lib/net472/NuGet.Common.xml",
         "lib/netstandard2.0/NuGet.Common.dll",
         "lib/netstandard2.0/NuGet.Common.xml",
-        "nuget.common.6.3.0.nupkg.sha512",
+        "nuget.common.6.2.1.nupkg.sha512",
         "nuget.common.nuspec"
       ]
     },
-    "NuGet.Configuration/6.3.0": {
-      "sha512": "+DgS8ctWjM8vMJ28V+SoRLBKFJYAlhfEV4tGybETksDR81T4pdv8AdT2g3eH31z0tfuTyyOpMfUrnddDkHKWVg==",
+    "NuGet.Configuration/6.2.1": {
+      "sha512": "tz0p+IlXydW+flKLSzB9me8fgCgOWrzgCx6zq/YHFzlTVFkcqi6RmZbk0qum1nk/HTzc9IjtEw+s//7/0pTkeg==",
       "type": "package",
-      "path": "nuget.configuration/6.3.0",
+      "path": "nuget.configuration/6.2.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "README.md",
         "icon.png",
+        "lib/net45/NuGet.Configuration.dll",
+        "lib/net45/NuGet.Configuration.xml",
         "lib/net472/NuGet.Configuration.dll",
         "lib/net472/NuGet.Configuration.xml",
         "lib/netstandard2.0/NuGet.Configuration.dll",
         "lib/netstandard2.0/NuGet.Configuration.xml",
-        "nuget.configuration.6.3.0.nupkg.sha512",
+        "nuget.configuration.6.2.1.nupkg.sha512",
         "nuget.configuration.nuspec"
       ]
     },
@@ -6237,20 +6210,22 @@
         "nuget.dependencyresolver.core.nuspec"
       ]
     },
-    "NuGet.Frameworks/6.3.0": {
-      "sha512": "JW/WMvvRatkZDQiK/E43P+xuaoYH7slTS36noFcubBGk2NL9rAKU+tWeudBAuzOjYRp1FJdzjo9b86/dZO56iw==",
+    "NuGet.Frameworks/6.2.1": {
+      "sha512": "J5AlfS/XIhPIODuAgdh+/anL08M5aZG/wW5TXsNQW5MfRhgVHkCiN/9/MHAzA1BXccchlTjL/uVRL7DVH56LRw==",
       "type": "package",
-      "path": "nuget.frameworks/6.3.0",
+      "path": "nuget.frameworks/6.2.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "README.md",
         "icon.png",
+        "lib/net40/NuGet.Frameworks.dll",
+        "lib/net40/NuGet.Frameworks.xml",
         "lib/net472/NuGet.Frameworks.dll",
         "lib/net472/NuGet.Frameworks.xml",
         "lib/netstandard2.0/NuGet.Frameworks.dll",
         "lib/netstandard2.0/NuGet.Frameworks.xml",
-        "nuget.frameworks.6.3.0.nupkg.sha512",
+        "nuget.frameworks.6.2.1.nupkg.sha512",
         "nuget.frameworks.nuspec"
       ]
     },
@@ -6270,10 +6245,10 @@
         "nuget.librarymodel.nuspec"
       ]
     },
-    "NuGet.Packaging/6.3.0": {
-      "sha512": "nZoKxL0HkG9B4vGBZHikh/0kRdy2/X824l/hPXNQ+Hybi17RsuI0i6Tz/maUAS4OUboc6vUbGrxpr1xEHJsTeQ==",
+    "NuGet.Packaging/6.2.1": {
+      "sha512": "uZ4lR9/x9X7uQ1uS8yak+oC803S/CzUzNvRAQ6A5FdBdvVxvTj95s0pYx9vCNVHNtXz/DHK1lbQvxVgYNlelQA==",
       "type": "package",
-      "path": "nuget.packaging/6.3.0",
+      "path": "nuget.packaging/6.2.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -6285,7 +6260,7 @@
         "lib/net5.0/NuGet.Packaging.xml",
         "lib/netstandard2.0/NuGet.Packaging.dll",
         "lib/netstandard2.0/NuGet.Packaging.xml",
-        "nuget.packaging.6.3.0.nupkg.sha512",
+        "nuget.packaging.6.2.1.nupkg.sha512",
         "nuget.packaging.nuspec"
       ]
     },
@@ -6307,14 +6282,13 @@
         "nuget.projectmodel.nuspec"
       ]
     },
-    "NuGet.Protocol/6.3.0": {
-      "sha512": "4hp7afdt4wKmmFD93hb+aOweBUPBfGMJZuNvSjllvh2gHeIlP7+IWmWpigmNLSPCuDF6zAGW/FFjYHRG1YCNmw==",
+    "NuGet.Protocol/5.11.0": {
+      "sha512": "eS/sJLqMzPz6gonD1zaXIcpDME/1DuKqv0Hlag8RuJcboZJliA15qjfg7UvuQB8/ineOleaEvrTzMjpKE0FdbQ==",
       "type": "package",
-      "path": "nuget.protocol/6.3.0",
+      "path": "nuget.protocol/5.11.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "README.md",
         "icon.png",
         "lib/net472/NuGet.Protocol.dll",
         "lib/net472/NuGet.Protocol.xml",
@@ -6322,24 +6296,26 @@
         "lib/net5.0/NuGet.Protocol.xml",
         "lib/netstandard2.0/NuGet.Protocol.dll",
         "lib/netstandard2.0/NuGet.Protocol.xml",
-        "nuget.protocol.6.3.0.nupkg.sha512",
+        "nuget.protocol.5.11.0.nupkg.sha512",
         "nuget.protocol.nuspec"
       ]
     },
-    "NuGet.Versioning/6.3.0": {
-      "sha512": "9cQMmhbwR92SSep1y4MMapjrJdcnzcnSWHec3yrB9EMyIjOhiXkwYX9lZ8fkYUxBskwXw8mAEwvY8b7yGRFbAg==",
+    "NuGet.Versioning/6.2.1": {
+      "sha512": "+o507LXjsN1YVAgmpqKCQZ70cLsXDoVmR8H0Wgy0muiFnOhkXN2+a6PGFBAIuA7qJch/umTYu1hp7Dlh1Qcrgg==",
       "type": "package",
-      "path": "nuget.versioning/6.3.0",
+      "path": "nuget.versioning/6.2.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "README.md",
         "icon.png",
+        "lib/net45/NuGet.Versioning.dll",
+        "lib/net45/NuGet.Versioning.xml",
         "lib/net472/NuGet.Versioning.dll",
         "lib/net472/NuGet.Versioning.xml",
         "lib/netstandard2.0/NuGet.Versioning.dll",
         "lib/netstandard2.0/NuGet.Versioning.xml",
-        "nuget.versioning.6.3.0.nupkg.sha512",
+        "nuget.versioning.6.2.1.nupkg.sha512",
         "nuget.versioning.nuspec"
       ]
     },
@@ -10393,27 +10369,20 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "Interprise.Data/1.0.0": {
+    "Leilão.Domain/1.0.0": {
       "type": "project",
-      "path": "../interprise.Infra.Data/Interprise.Data.csproj",
-      "msbuildProject": "../interprise.Infra.Data/Interprise.Data.csproj"
-    },
-    "interprise.Domain/1.0.0": {
-      "type": "project",
-      "path": "../interprise.Domain/interprise.Domain.csproj",
-      "msbuildProject": "../interprise.Domain/interprise.Domain.csproj"
-    },
-    "interprise.Service/1.0.0": {
-      "type": "project",
-      "path": "../interprise.Service/interprise.Service.csproj",
-      "msbuildProject": "../interprise.Service/interprise.Service.csproj"
+      "path": "../../Leilão.Domain/Leilão.Domain.csproj",
+      "msbuildProject": "../../Leilão.Domain/Leilão.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "AutoMapper >= 12.0.0",
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.0",
-      "Interprise.Data >= 1.0.0",
+      "C:\\Projetos\\C#\\PROJETOS 4UCode\\Leilão.API\\Leilão\\src\\Leilão.Application\\interprise.Domain\\interprise.Domain.csproj",
+      "C:\\Projetos\\C#\\PROJETOS 4UCode\\Leilão.API\\Leilão\\src\\Leilão.Application\\interprise.Infra.Data\\Interprise.Data.csproj",
+      "C:\\Projetos\\C#\\PROJETOS 4UCode\\Leilão.API\\Leilão\\src\\Leilão.Application\\interprise.Service\\interprise.Service.csproj",
+      "Leilão.Domain >= 1.0.0",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 6.0.9",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.9",
       "Microsoft.AspNetCore.Identity.UI >= 6.0.9",
@@ -10428,9 +10397,7 @@
       "Microsoft.Extensions.DependencyInjection >= 6.0.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore >= 6.0.10",
       "Pomelo.EntityFrameworkCore.MySql >= 6.0.2",
-      "Swashbuckle.AspNetCore >= 6.2.3",
-      "interprise.Domain >= 1.0.0",
-      "interprise.Service >= 1.0.0"
+      "Swashbuckle.AspNetCore >= 6.2.3"
     ]
   },
   "packageFolders": {
@@ -10440,11 +10407,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\C#\\PROJETOS 4UCode\\Interprise.API\\InterpriseStore.API\\InterpriseStore\\src\\InterpriseStore\\InterpriseStore.csproj",
+      "projectUniqueName": "C:\\Projetos\\C#\\PROJETOS 4UCode\\Leilão.API\\Leilão\\src\\Leilão.Application\\InterpriseStore\\InterpriseStore.csproj",
       "projectName": "InterpriseStore",
-      "projectPath": "C:\\Projetos\\C#\\PROJETOS 4UCode\\Interprise.API\\InterpriseStore.API\\InterpriseStore\\src\\InterpriseStore\\InterpriseStore.csproj",
+      "projectPath": "C:\\Projetos\\C#\\PROJETOS 4UCode\\Leilão.API\\Leilão\\src\\Leilão.Application\\InterpriseStore\\InterpriseStore.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\C#\\PROJETOS 4UCode\\Interprise.API\\InterpriseStore.API\\InterpriseStore\\src\\InterpriseStore\\obj\\",
+      "outputPath": "C:\\Projetos\\C#\\PROJETOS 4UCode\\Leilão.API\\Leilão\\src\\Leilão.Application\\InterpriseStore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -10464,14 +10431,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Projetos\\C#\\PROJETOS 4UCode\\Interprise.API\\InterpriseStore.API\\InterpriseStore\\src\\interprise.Domain\\interprise.Domain.csproj": {
-              "projectPath": "C:\\Projetos\\C#\\PROJETOS 4UCode\\Interprise.API\\InterpriseStore.API\\InterpriseStore\\src\\interprise.Domain\\interprise.Domain.csproj"
+            "C:\\Projetos\\C#\\PROJETOS 4UCode\\Leilão.API\\Leilão\\src\\Leilão.Application\\interprise.Domain\\interprise.Domain.csproj": {
+              "projectPath": "C:\\Projetos\\C#\\PROJETOS 4UCode\\Leilão.API\\Leilão\\src\\Leilão.Application\\interprise.Domain\\interprise.Domain.csproj"
             },
-            "C:\\Projetos\\C#\\PROJETOS 4UCode\\Interprise.API\\InterpriseStore.API\\InterpriseStore\\src\\interprise.Infra.Data\\Interprise.Data.csproj": {
-              "projectPath": "C:\\Projetos\\C#\\PROJETOS 4UCode\\Interprise.API\\InterpriseStore.API\\InterpriseStore\\src\\interprise.Infra.Data\\Interprise.Data.csproj"
+            "C:\\Projetos\\C#\\PROJETOS 4UCode\\Leilão.API\\Leilão\\src\\Leilão.Application\\interprise.Infra.Data\\Interprise.Data.csproj": {
+              "projectPath": "C:\\Projetos\\C#\\PROJETOS 4UCode\\Leilão.API\\Leilão\\src\\Leilão.Application\\interprise.Infra.Data\\Interprise.Data.csproj"
             },
-            "C:\\Projetos\\C#\\PROJETOS 4UCode\\Interprise.API\\InterpriseStore.API\\InterpriseStore\\src\\interprise.Service\\interprise.Service.csproj": {
-              "projectPath": "C:\\Projetos\\C#\\PROJETOS 4UCode\\Interprise.API\\InterpriseStore.API\\InterpriseStore\\src\\interprise.Service\\interprise.Service.csproj"
+            "C:\\Projetos\\C#\\PROJETOS 4UCode\\Leilão.API\\Leilão\\src\\Leilão.Application\\interprise.Service\\interprise.Service.csproj": {
+              "projectPath": "C:\\Projetos\\C#\\PROJETOS 4UCode\\Leilão.API\\Leilão\\src\\Leilão.Application\\interprise.Service\\interprise.Service.csproj"
+            },
+            "C:\\Projetos\\C#\\PROJETOS 4UCode\\Leilão.API\\Leilão\\src\\Leilão.Domain\\Leilão.Domain.csproj": {
+              "projectPath": "C:\\Projetos\\C#\\PROJETOS 4UCode\\Leilão.API\\Leilão\\src\\Leilão.Domain\\Leilão.Domain.csproj"
             }
           }
         }
@@ -10581,5 +10551,34 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Não é possível encontrar o projeto 'C:\\Projetos\\C#\\PROJETOS 4UCode\\Leilão.API\\Leilão\\src\\Leilão.Application\\interprise.Domain\\interprise.Domain.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
+      "libraryId": "C:\\Projetos\\C#\\PROJETOS 4UCode\\Leilão.API\\Leilão\\src\\Leilão.Application\\interprise.Domain\\interprise.Domain.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Não é possível encontrar o projeto 'C:\\Projetos\\C#\\PROJETOS 4UCode\\Leilão.API\\Leilão\\src\\Leilão.Application\\interprise.Infra.Data\\Interprise.Data.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
+      "libraryId": "C:\\Projetos\\C#\\PROJETOS 4UCode\\Leilão.API\\Leilão\\src\\Leilão.Application\\interprise.Infra.Data\\Interprise.Data.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Não é possível encontrar o projeto 'C:\\Projetos\\C#\\PROJETOS 4UCode\\Leilão.API\\Leilão\\src\\Leilão.Application\\interprise.Service\\interprise.Service.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
+      "libraryId": "C:\\Projetos\\C#\\PROJETOS 4UCode\\Leilão.API\\Leilão\\src\\Leilão.Application\\interprise.Service\\interprise.Service.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

@@ -21,8 +21,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\interprise.Domain\interprise.Domain.csproj" />
-    <ProjectReference Include="..\interprise.Service\interprise.Service.csproj" />
+    <ProjectReference Include="..\Leilão.Domain\Leilão.Domain.csproj" />
+    <ProjectReference Include="..\Leilão.Service\Leilão.Service.csproj" />
   </ItemGroup>
 
 </Project>
