@@ -6,7 +6,15 @@ using System.Threading.Tasks;
 
 namespace Leilão.Domain.Models
 {
-    internal class Documento
+    public class Documento
     {
+        public string tipoDocumento { get; set; }
+        public string anexo { get; set; }
+        public DateTime dataEnvio { get; set; }
+
+        public Documento()
+        {
+            dataEnvio = DateTime.Now;
+        }
     }
 }

@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "NiovTg01PLjbaXZ4hmZKPEXKcSjVUrV2Yi5jD1wO9bHBNkbEtNXK54hHFaiuCr3HgKI6Uuk+r6B1ERqjsdxLmA==",
+  "dgSpecHash": "5y9ZuSUFVTEcVpxPcQClahUXGDwuVKCWPhWRCOKM6TuI7mKheZMwmgqsy0RvgfZzV47rsOZYKpyur7A7GEbxig==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\C#\\PROJETOS 4UCode\\Leilão.API\\Leilão\\src\\Leilão.Domain\\Leilão.Domain.csproj",
+  "projectFilePath": "E:\\Projetos\\ApiBanco\\Leilão\\src\\Leilão.Domain\\Leilão.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\PC\\.nuget\\packages\\fluentvalidation\\11.2.1\\fluentvalidation.11.2.1.nupkg.sha512",
-    "C:\\Users\\PC\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.2\\fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",
-    "C:\\Users\\PC\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.2.1\\fluentvalidation.dependencyinjectionextensions.11.2.1.nupkg.sha512",
-    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+    "C:\\Users\\Amanda Luiza\\.nuget\\packages\\fluentvalidation\\11.2.1\\fluentvalidation.11.2.1.nupkg.sha512",
+    "C:\\Users\\Amanda Luiza\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.2\\fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",
+    "C:\\Users\\Amanda Luiza\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.2.1\\fluentvalidation.dependencyinjectionextensions.11.2.1.nupkg.sha512",
+    "C:\\Users\\Amanda Luiza\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
   ],
   "logs": []
 }
