@@ -11,6 +11,7 @@ namespace Business.Models
         TipoLeilão TipoLeilão { get; set; }
         Produto Produto { get; set; }
 
+        public Categoria Categoria { get; set; }
 
     }
 }

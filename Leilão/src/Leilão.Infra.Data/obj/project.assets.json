@@ -999,7 +999,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "E:\\Projetos\\ApiLeilao\\Leilão\\src\\interprise.Domain\\interprise.Domain.csproj": "1.0.0",
+          "C:\\Projetos\\C#\\PROJETOS 4UCode\\LEILAO-API\\Leil-o.API\\Leilão\\src\\interprise.Domain\\interprise.Domain.csproj": "1.0.0",
           "FluentValidation.AspNetCore": "11.2.2"
         },
         "compile": {
@@ -2531,37 +2531,41 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Amanda Luiza\\.nuget\\packages\\": {}
+    "C:\\Users\\PC\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Infra.Data\\Leilão.Data.csproj",
+      "projectUniqueName": "C:\\Projetos\\C#\\PROJETOS 4UCode\\LEILAO-API\\Leil-o.API\\Leilão\\src\\Leilão.Infra.Data\\Leilão.Data.csproj",
       "projectName": "Leilão.Data",
-      "projectPath": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Infra.Data\\Leilão.Data.csproj",
-      "packagesPath": "C:\\Users\\Amanda Luiza\\.nuget\\packages\\",
-      "outputPath": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Infra.Data\\obj\\",
+      "projectPath": "C:\\Projetos\\C#\\PROJETOS 4UCode\\LEILAO-API\\Leil-o.API\\Leilão\\src\\Leilão.Infra.Data\\Leilão.Data.csproj",
+      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+      "outputPath": "C:\\Projetos\\C#\\PROJETOS 4UCode\\LEILAO-API\\Leil-o.API\\Leilão\\src\\Leilão.Infra.Data\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Amanda Luiza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Domain\\Leilão.Domain.csproj": {
-              "projectPath": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Domain\\Leilão.Domain.csproj"
+            "C:\\Projetos\\C#\\PROJETOS 4UCode\\LEILAO-API\\Leil-o.API\\Leilão\\src\\Leilão.Domain\\Leilão.Domain.csproj": {
+              "projectPath": "C:\\Projetos\\C#\\PROJETOS 4UCode\\LEILAO-API\\Leil-o.API\\Leilão\\src\\Leilão.Domain\\Leilão.Domain.csproj"
             },
-            "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Service\\Leilão.Service.csproj": {
-              "projectPath": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Service\\Leilão.Service.csproj"
+            "C:\\Projetos\\C#\\PROJETOS 4UCode\\LEILAO-API\\Leil-o.API\\Leilão\\src\\Leilão.Service\\Leilão.Service.csproj": {
+              "projectPath": "C:\\Projetos\\C#\\PROJETOS 4UCode\\LEILAO-API\\Leil-o.API\\Leilão\\src\\Leilão.Service\\Leilão.Service.csproj"
             }
           }
         }
@@ -2617,7 +2621,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   },
@@ -2625,8 +2629,8 @@
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Não é possível encontrar o projeto 'E:\\Projetos\\ApiLeilao\\Leilão\\src\\interprise.Domain\\interprise.Domain.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
-      "libraryId": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\interprise.Domain\\interprise.Domain.csproj",
+      "message": "Não é possível encontrar o projeto 'C:\\Projetos\\C#\\PROJETOS 4UCode\\LEILAO-API\\Leil-o.API\\Leilão\\src\\interprise.Domain\\interprise.Domain.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
+      "libraryId": "C:\\Projetos\\C#\\PROJETOS 4UCode\\LEILAO-API\\Leil-o.API\\Leilão\\src\\interprise.Domain\\interprise.Domain.csproj",
       "targetGraphs": [
         "net6.0"
       ]

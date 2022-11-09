@@ -145,26 +145,30 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Amanda Luiza\\.nuget\\packages\\": {}
+    "C:\\Users\\PC\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Domain\\Leilão.Domain.csproj",
+      "projectUniqueName": "C:\\Projetos\\C#\\PROJETOS 4UCode\\LEILAO-API\\Leil-o.API\\Leilão\\src\\Leilão.Domain\\Leilão.Domain.csproj",
       "projectName": "Leilão.Domain",
-      "projectPath": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Domain\\Leilão.Domain.csproj",
-      "packagesPath": "C:\\Users\\Amanda Luiza\\.nuget\\packages\\",
-      "outputPath": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Domain\\obj\\",
+      "projectPath": "C:\\Projetos\\C#\\PROJETOS 4UCode\\LEILAO-API\\Leil-o.API\\Leilão\\src\\Leilão.Domain\\Leilão.Domain.csproj",
+      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+      "outputPath": "C:\\Projetos\\C#\\PROJETOS 4UCode\\LEILAO-API\\Leil-o.API\\Leilão\\src\\Leilão.Domain\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Amanda Luiza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -204,7 +208,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
