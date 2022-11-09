@@ -11,6 +11,7 @@ namespace Leilão.Domain.Models
         public string tipoDocumento { get; set; }
         public string anexo { get; set; }
         public DateTime dataEnvio { get; set; }
+        public Pessoa pessoa { get; set; }
 
         public Documento()
         {

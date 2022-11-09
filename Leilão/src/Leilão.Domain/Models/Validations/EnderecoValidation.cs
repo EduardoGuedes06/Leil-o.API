@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Leilão.Domain.Models
+namespace Leilão.Domain.Models.Validations
 {
-    public class PessoaFisica : Pessoa
+    internal class EnderecoValidation
     {
-        public string CPF { get; set; }
     }
 }

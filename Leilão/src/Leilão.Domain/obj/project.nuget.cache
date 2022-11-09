@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5y9ZuSUFVTEcVpxPcQClahUXGDwuVKCWPhWRCOKM6TuI7mKheZMwmgqsy0RvgfZzV47rsOZYKpyur7A7GEbxig==",
+  "dgSpecHash": "WuSrwIBfEMd1HsUiMSSPxy5rn3A6u2Egw4omueC3wXbEpE9exku01PPNAkqYaMb89KsDH6IJXFmnONC7pE7Pag==",
   "success": true,
-  "projectFilePath": "E:\\Projetos\\ApiBanco\\Leilão\\src\\Leilão.Domain\\Leilão.Domain.csproj",
+  "projectFilePath": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Domain\\Leilão.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Amanda Luiza\\.nuget\\packages\\fluentvalidation\\11.2.1\\fluentvalidation.11.2.1.nupkg.sha512",
     "C:\\Users\\Amanda Luiza\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.2\\fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",

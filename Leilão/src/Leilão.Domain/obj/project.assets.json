@@ -150,11 +150,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projetos\\ApiBanco\\Leilão\\src\\Leilão.Domain\\Leilão.Domain.csproj",
+      "projectUniqueName": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Domain\\Leilão.Domain.csproj",
       "projectName": "Leilão.Domain",
-      "projectPath": "E:\\Projetos\\ApiBanco\\Leilão\\src\\Leilão.Domain\\Leilão.Domain.csproj",
+      "projectPath": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Domain\\Leilão.Domain.csproj",
       "packagesPath": "C:\\Users\\Amanda Luiza\\.nuget\\packages\\",
-      "outputPath": "E:\\Projetos\\ApiBanco\\Leilão\\src\\Leilão.Domain\\obj\\",
+      "outputPath": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Amanda Luiza\\AppData\\Roaming\\NuGet\\NuGet.Config",

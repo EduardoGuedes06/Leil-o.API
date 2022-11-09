@@ -1058,7 +1058,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "E:\\Projetos\\ApiBanco\\Leilão\\src\\interprise.Domain\\interprise.Domain.csproj": "1.0.0",
+          "E:\\Projetos\\ApiLeilao\\Leilão\\src\\interprise.Domain\\interprise.Domain.csproj": "1.0.0",
           "FluentValidation.AspNetCore": "11.2.2"
         },
         "compile": {
@@ -2666,11 +2666,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projetos\\ApiBanco\\Leilão\\src\\Leilão.Application\\Leilão.core\\Leilão.core.csproj",
+      "projectUniqueName": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Application\\Leilão.core\\Leilão.core.csproj",
       "projectName": "Leilão.core",
-      "projectPath": "E:\\Projetos\\ApiBanco\\Leilão\\src\\Leilão.Application\\Leilão.core\\Leilão.core.csproj",
+      "projectPath": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Application\\Leilão.core\\Leilão.core.csproj",
       "packagesPath": "C:\\Users\\Amanda Luiza\\.nuget\\packages\\",
-      "outputPath": "E:\\Projetos\\ApiBanco\\Leilão\\src\\Leilão.Application\\Leilão.core\\obj\\",
+      "outputPath": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Application\\Leilão.core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Amanda Luiza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2687,14 +2687,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Projetos\\ApiBanco\\Leilão\\src\\Leilão.Domain\\Leilão.Domain.csproj": {
-              "projectPath": "E:\\Projetos\\ApiBanco\\Leilão\\src\\Leilão.Domain\\Leilão.Domain.csproj"
+            "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Domain\\Leilão.Domain.csproj": {
+              "projectPath": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Domain\\Leilão.Domain.csproj"
             },
-            "E:\\Projetos\\ApiBanco\\Leilão\\src\\Leilão.Infra.Data\\Leilão.Data.csproj": {
-              "projectPath": "E:\\Projetos\\ApiBanco\\Leilão\\src\\Leilão.Infra.Data\\Leilão.Data.csproj"
+            "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Infra.Data\\Leilão.Data.csproj": {
+              "projectPath": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Infra.Data\\Leilão.Data.csproj"
             },
-            "E:\\Projetos\\ApiBanco\\Leilão\\src\\Leilão.Service\\Leilão.Service.csproj": {
-              "projectPath": "E:\\Projetos\\ApiBanco\\Leilão\\src\\Leilão.Service\\Leilão.Service.csproj"
+            "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Service\\Leilão.Service.csproj": {
+              "projectPath": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Service\\Leilão.Service.csproj"
             }
           }
         }
@@ -2741,8 +2741,8 @@
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Não é possível encontrar o projeto 'E:\\Projetos\\ApiBanco\\Leilão\\src\\interprise.Domain\\interprise.Domain.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
-      "libraryId": "E:\\Projetos\\ApiBanco\\Leilão\\src\\interprise.Domain\\interprise.Domain.csproj",
+      "message": "Não é possível encontrar o projeto 'E:\\Projetos\\ApiLeilao\\Leilão\\src\\interprise.Domain\\interprise.Domain.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
+      "libraryId": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\interprise.Domain\\interprise.Domain.csproj",
       "targetGraphs": [
         "net6.0"
       ]

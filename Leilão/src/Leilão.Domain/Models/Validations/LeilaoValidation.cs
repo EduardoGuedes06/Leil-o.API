@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Leilão.Domain.Models
+namespace Leilão.Domain.Models.Validations
 {
-    internal class Endereço
+    internal class LeilaoValidation
     {
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jdUX1A0XjNHvs8g8Yk6ZdSyghgrChU+VHr3va6cji9izekrltH8cvjVZwezmABFJstgIUGWaFJXyvcSbxqgNMQ==",
+  "dgSpecHash": "GCekj93XDc5rN9Cz1AYaTPgpRJ4wdptz4CRw2Nfp2EZNKXAyVKvch8BtgqM6+iAfScyfHI7wz+k7BmR07zLqaw==",
   "success": false,
-  "projectFilePath": "E:\\Projetos\\ApiBanco\\Leilão\\src\\Leilão.Application\\InterpriseStore\\InterpriseStore.csproj",
+  "projectFilePath": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Application\\InterpriseStore\\InterpriseStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Amanda Luiza\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Amanda Luiza\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
@@ -203,8 +203,8 @@
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Não é possível encontrar o projeto 'E:\\Projetos\\ApiBanco\\Leilão\\src\\Leilão.Application\\interprise.Domain\\interprise.Domain.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
-      "libraryId": "E:\\Projetos\\ApiBanco\\Leilão\\src\\Leilão.Application\\interprise.Domain\\interprise.Domain.csproj",
+      "message": "Não é possível encontrar o projeto 'E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Application\\interprise.Domain\\interprise.Domain.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
+      "libraryId": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Application\\interprise.Domain\\interprise.Domain.csproj",
       "targetGraphs": [
         "net6.0"
       ]
@@ -212,8 +212,8 @@
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Não é possível encontrar o projeto 'E:\\Projetos\\ApiBanco\\Leilão\\src\\Leilão.Application\\interprise.Infra.Data\\Interprise.Data.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
-      "libraryId": "E:\\Projetos\\ApiBanco\\Leilão\\src\\Leilão.Application\\interprise.Infra.Data\\Interprise.Data.csproj",
+      "message": "Não é possível encontrar o projeto 'E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Application\\interprise.Infra.Data\\Interprise.Data.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
+      "libraryId": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Application\\interprise.Infra.Data\\Interprise.Data.csproj",
       "targetGraphs": [
         "net6.0"
       ]
@@ -221,8 +221,8 @@
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Não é possível encontrar o projeto 'E:\\Projetos\\ApiBanco\\Leilão\\src\\Leilão.Application\\interprise.Service\\interprise.Service.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
-      "libraryId": "E:\\Projetos\\ApiBanco\\Leilão\\src\\Leilão.Application\\interprise.Service\\interprise.Service.csproj",
+      "message": "Não é possível encontrar o projeto 'E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Application\\interprise.Service\\interprise.Service.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
+      "libraryId": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Application\\interprise.Service\\interprise.Service.csproj",
       "targetGraphs": [
         "net6.0"
       ]

@@ -141,7 +141,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "E:\\Projetos\\ApiBanco\\Leilão\\src\\interprise.Domain\\interprise.Domain.csproj",
+      "E:\\Projetos\\ApiLeilao\\Leilão\\src\\interprise.Domain\\interprise.Domain.csproj",
       "FluentValidation.AspNetCore >= 11.2.2"
     ]
   },
@@ -151,11 +151,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projetos\\ApiBanco\\Leilão\\src\\Leilão.Service\\Leilão.Service.csproj",
+      "projectUniqueName": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Service\\Leilão.Service.csproj",
       "projectName": "Leilão.Service",
-      "projectPath": "E:\\Projetos\\ApiBanco\\Leilão\\src\\Leilão.Service\\Leilão.Service.csproj",
+      "projectPath": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Service\\Leilão.Service.csproj",
       "packagesPath": "C:\\Users\\Amanda Luiza\\.nuget\\packages\\",
-      "outputPath": "E:\\Projetos\\ApiBanco\\Leilão\\src\\Leilão.Service\\obj\\",
+      "outputPath": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Amanda Luiza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -172,8 +172,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Projetos\\ApiBanco\\Leilão\\src\\interprise.Domain\\interprise.Domain.csproj": {
-              "projectPath": "E:\\Projetos\\ApiBanco\\Leilão\\src\\interprise.Domain\\interprise.Domain.csproj"
+            "E:\\Projetos\\ApiLeilao\\Leilão\\src\\interprise.Domain\\interprise.Domain.csproj": {
+              "projectPath": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\interprise.Domain\\interprise.Domain.csproj"
             }
           }
         }
@@ -217,8 +217,8 @@
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Não é possível encontrar o projeto 'E:\\Projetos\\ApiBanco\\Leilão\\src\\interprise.Domain\\interprise.Domain.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
-      "libraryId": "E:\\Projetos\\ApiBanco\\Leilão\\src\\interprise.Domain\\interprise.Domain.csproj",
+      "message": "Não é possível encontrar o projeto 'E:\\Projetos\\ApiLeilao\\Leilão\\src\\interprise.Domain\\interprise.Domain.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
+      "libraryId": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\interprise.Domain\\interprise.Domain.csproj",
       "targetGraphs": [
         "net6.0"
       ]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projetos\\ApiBanco\\Leilão\\src\\Leilão.Service\\Leilão.Service.csproj": {}
+    "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Service\\Leilão.Service.csproj": {}
   },
   "projects": {
-    "E:\\Projetos\\ApiBanco\\Leilão\\src\\Leilão.Service\\Leilão.Service.csproj": {
+    "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Service\\Leilão.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projetos\\ApiBanco\\Leilão\\src\\Leilão.Service\\Leilão.Service.csproj",
+        "projectUniqueName": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Service\\Leilão.Service.csproj",
         "projectName": "Leilão.Service",
-        "projectPath": "E:\\Projetos\\ApiBanco\\Leilão\\src\\Leilão.Service\\Leilão.Service.csproj",
+        "projectPath": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Service\\Leilão.Service.csproj",
         "packagesPath": "C:\\Users\\Amanda Luiza\\.nuget\\packages\\",
-        "outputPath": "E:\\Projetos\\ApiBanco\\Leilão\\src\\Leilão.Service\\obj\\",
+        "outputPath": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Amanda Luiza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Projetos\\ApiBanco\\Leilão\\src\\interprise.Domain\\interprise.Domain.csproj": {
-                "projectPath": "E:\\Projetos\\ApiBanco\\Leilão\\src\\interprise.Domain\\interprise.Domain.csproj"
+              "E:\\Projetos\\ApiLeilao\\Leilão\\src\\interprise.Domain\\interprise.Domain.csproj": {
+                "projectPath": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\interprise.Domain\\interprise.Domain.csproj"
               }
             }
           }

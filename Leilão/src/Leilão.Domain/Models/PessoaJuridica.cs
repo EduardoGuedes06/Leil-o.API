@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Leilão.Domain.Models
 {
-    internal class PessoaJuridica
+    public class PessoaJuridica
     {
+        public double CNPJ { get; set; }
     }
 }
