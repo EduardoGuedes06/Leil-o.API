@@ -19,9 +19,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Infra", "4 - Infra", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.1 - Data", "4.1 - Data", "{C2BC991B-F18D-4F52-939D-6D69956AB545}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leilão.core", "src\Leilão.Application\Leilão.core\Leilão.core.csproj", "{DB10A9ED-72AF-43D8-B5F6-B7FA157C7731}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterpriseStore", "src\Leilão.Application\InterpriseStore\InterpriseStore.csproj", "{E18A264F-9641-4DE8-9732-1F3C87CDCA1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leilão.core", "src\Leilão.Application\Leilão.core\Leilão.core.csproj", "{DB10A9ED-72AF-43D8-B5F6-B7FA157C7731}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,10 +43,6 @@ Global
 		{DB10A9ED-72AF-43D8-B5F6-B7FA157C7731}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB10A9ED-72AF-43D8-B5F6-B7FA157C7731}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB10A9ED-72AF-43D8-B5F6-B7FA157C7731}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E18A264F-9641-4DE8-9732-1F3C87CDCA1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E18A264F-9641-4DE8-9732-1F3C87CDCA1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E18A264F-9641-4DE8-9732-1F3C87CDCA1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E18A264F-9641-4DE8-9732-1F3C87CDCA1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -59,7 +53,6 @@ Global
 		{6782A98D-5712-478A-939E-35DB378A4871} = {8008258C-5436-4D1E-937F-B929A03E48A4}
 		{C2BC991B-F18D-4F52-939D-6D69956AB545} = {CEA82FB4-BAAD-4740-BB08-4F9A74B6C012}
 		{DB10A9ED-72AF-43D8-B5F6-B7FA157C7731} = {A844DF41-CBF9-4FE2-8100-1F380ABA8F11}
-		{E18A264F-9641-4DE8-9732-1F3C87CDCA1E} = {A844DF41-CBF9-4FE2-8100-1F380ABA8F11}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {67FD519E-5DE4-48FF-9334-BB93055C8BFF}
