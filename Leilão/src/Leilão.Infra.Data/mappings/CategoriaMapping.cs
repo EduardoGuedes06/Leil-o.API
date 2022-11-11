@@ -6,7 +6,7 @@ namespace Data.mappings
 {
 
     public class CategoriaMapping : IEntityTypeConfiguration<Categoria>
-        {
+    {
             public void Configure(EntityTypeBuilder<Categoria> builder)
             {
                 builder.HasKey(p => p.Id);
@@ -15,13 +15,12 @@ namespace Data.mappings
                     .IsRequired()
                     .HasColumnType("varchar(200)");
 
+            // 1 : N => Categoria : Produtos
+                builder.HasMany(f => f.Produtos)
+                    .WithOne(p => p.Categoria)
+                    .HasForeignKey(p => p.CategoriaId);
 
-            // 1 : N => Fornecedor : Produtos
-            builder.HasMany(f => f.Produtos)
-                .WithOne(p => p.Categoria)
-                .HasForeignKey(p => p.CategoriaId);
-
-                builder.ToTable("Categoria");
+            builder.ToTable("Categoria");
             }
-        }
+    }
 }

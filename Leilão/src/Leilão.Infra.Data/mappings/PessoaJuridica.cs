@@ -4,11 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Leilão.Domain.Models
+namespace Leilão.Data.mappings
 {
-    public class PessoaFisica : Pessoa
+    internal class DocumentoMapping
     {
-        public string CPF { get; set; }
-
     }
 }

@@ -1,21 +1,18 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Business.Models;
 
 namespace Leilão.Domain.Models
 {
-    public class Documento
+    public class Documento : Entity
     {
-        public string tipoDocumento { get; set; }
-        public string anexo { get; set; }
-        public DateTime dataEnvio { get; set; }
-        public Pessoa pessoa { get; set; }
+        public Guid PessoaId { get; set; }
+        public string TipoDocumento { get; set; }
+        public string Anexo { get; set; }
+        public DateTime DataEnvio { get; set; }
+        public Pessoa Pessoa { get; set; }
 
         public Documento()
         {
-            dataEnvio = DateTime.Now;
+            DataEnvio = DateTime.Now;
         }
     }
 }

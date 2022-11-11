@@ -12,6 +12,6 @@ namespace Leilão.Domain.Models
     {
         public double Valor { get; set; }
 
-        public Usuario Usuario;
+
     }
 }

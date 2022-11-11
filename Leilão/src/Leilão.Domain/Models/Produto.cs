@@ -11,7 +11,6 @@ namespace Business.Models
 
     public class Produto : Entity
     {
-
         public Guid CategoriaId { get; set; }
         public string Nome { get; set; }
 

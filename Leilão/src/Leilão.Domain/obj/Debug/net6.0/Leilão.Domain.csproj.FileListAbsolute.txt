@@ -1,0 +1,5 @@
+C:\Projetos\C#\PROJETOS 4UCode\LEILAO-API\Leil-o.API\Leilão\src\Leilão.Domain\obj\Debug\net6.0\Leilão.Domain.csproj.AssemblyReference.cache
+C:\Projetos\C#\PROJETOS 4UCode\LEILAO-API\Leil-o.API\Leilão\src\Leilão.Domain\obj\Debug\net6.0\Leilão.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\PROJETOS 4UCode\LEILAO-API\Leil-o.API\Leilão\src\Leilão.Domain\obj\Debug\net6.0\Leilão.Domain.AssemblyInfoInputs.cache
+C:\Projetos\C#\PROJETOS 4UCode\LEILAO-API\Leil-o.API\Leilão\src\Leilão.Domain\obj\Debug\net6.0\Leilão.Domain.AssemblyInfo.cs
+C:\Projetos\C#\PROJETOS 4UCode\LEILAO-API\Leil-o.API\Leilão\src\Leilão.Domain\obj\Debug\net6.0\Leilão.Domain.csproj.CoreCompileInputs.cache

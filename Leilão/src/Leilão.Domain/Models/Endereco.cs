@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Business.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Leilão.Domain.Models
 {
-    public class Endereco
+    public class Endereco : Entity
     {
         public Guid pessoaId { get; set; }
         public string Logradouro { get; set; }
