@@ -9,6 +9,6 @@ namespace Leilão.Domain.Models
 {
     public class TipoLeilão : Entity
     {
-        public string descricao {get; set;}
+        public string Descricao {get; set;}
     }
 }

@@ -8,15 +8,15 @@ using System.Threading.Tasks;
 
 namespace Leilão.Domain.Models.Validations
 {
-    public class LeilaoValidation : AbstractValidator<Leilao>
+    public class PessoaValidation : AbstractValidator<Pessoa>
     {
-        public LeilaoValidation()
+        public PessoaValidation()
         {
-            RuleFor(c => c.lanceMin)
+            RuleFor(c => c.Endereco)
                 .NotEmpty().WithMessage("O campo {PropertyName} precisa ser fornecido");
-            RuleFor(c => c.dataInicio)
+            RuleFor(c => c.Telefone)
                 .NotEmpty().WithMessage("O campo {PropertyName} precisa ser fornecido");
-            RuleFor(c => c.dataFim)
+            RuleFor(c => c.Nome)
                 .NotEmpty().WithMessage("O campo {PropertyName} precisa ser fornecido");
         }
     }

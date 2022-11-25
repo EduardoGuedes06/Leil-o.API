@@ -9,5 +9,6 @@ namespace Leilão.Domain.Models
     public class PessoaFisica : Pessoa
     {
         public string CPF { get; set; }
+
     }
 }

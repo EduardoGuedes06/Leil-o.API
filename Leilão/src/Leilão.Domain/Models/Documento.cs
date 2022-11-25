@@ -4,6 +4,7 @@ namespace Leilão.Domain.Models
 {
     public class Documento : Entity
     {
+        public Guid PessoaId { get; set; }
         public string TipoDocumento { get; set; }
         public string Anexo { get; set; }
         public DateTime DataEnvio { get; set; }

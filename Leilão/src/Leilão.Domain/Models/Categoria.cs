@@ -3,7 +3,7 @@
     public class Categoria : Entity
     {
         public string Descricao { get; set; }
-        public Produto? Produto { get; set; }
+        public IEnumerable<Produto> Produtos { get; set; }
 
     }
 }

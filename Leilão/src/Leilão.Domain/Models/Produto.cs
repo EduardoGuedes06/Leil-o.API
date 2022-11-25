@@ -15,14 +15,14 @@ namespace Business.Models
         public string Nome { get; set; }
 
         //public string foto { get; set; }
-        public string edital { get; set; }
-        public string comitentes { get; set; }
+        public string Edital { get; set; }
+        public string Comitentes { get; set; }
 
-        public string meta { get; set; }
+        public string Meta { get; set; }
 
-        public string acressimo { get; set; }
+        public string? Acrescimo { get; set; }
 
-        public string natureza { get; set; }
+        public string Natureza { get; set; }
         public Categoria Categoria { get; set; }
 
     }

@@ -25,15 +25,10 @@ namespace Leilão.Data.mappings
                 .HasColumnType("varchar(200)");
 
             builder.Property(p => p.DataEnvio)
-                .IsRequired()
                 .HasColumnType("datetime");
 
-            // 1 : N => Fornecedor : Produtos
-            builder.HasMany(f => f.)
-                .WithOne(p => p.Categoria)
-                .HasForeignKey(p => p.CategoriaId);
-
-            builder.ToTable("Categoria");
+           
+            builder.ToTable("Documentos");
         }
     }
 }

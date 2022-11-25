@@ -16,7 +16,7 @@ namespace Data.mappings
                     .HasColumnType("varchar(200)");
 
             // 1 : N => Categoria : Produtos
-                builder.HasMany(f => f.Produto)
+                builder.HasMany(f => f.Produtos)
                     .WithOne(p => p.Categoria)
                     .HasForeignKey(p => p.CategoriaId);
 

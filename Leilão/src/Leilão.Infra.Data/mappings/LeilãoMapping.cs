@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Leilão.Data.mappings
 {
-    internal class DocumentoMapping
+    public class DocumentoMapping
     {
     }
 }

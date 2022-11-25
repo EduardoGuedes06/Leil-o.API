@@ -8,11 +8,11 @@ using System.Threading.Tasks;
 
 namespace Leilão.Domain.Models.Validations
 {
-    public class LanceValidation : AbstractValidator<Lance>
+    public class PessoaFisicaValidation : AbstractValidator<PessoaFisica>
     {
-        public LanceValidation()
+        public PessoaFisicaValidation()
         {
-            RuleFor(c => c.Valor)
+            RuleFor(c => c.CPF)
                 .NotEmpty().WithMessage("O campo {PropertyName} precisa ser fornecido");
         }
     }
