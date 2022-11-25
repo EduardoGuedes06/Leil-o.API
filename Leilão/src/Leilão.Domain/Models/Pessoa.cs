@@ -10,7 +10,7 @@ namespace Leilão.Domain.Models
         public string Telefone { get; set; }
         public Endereco Endereco { get; set; }
         public Documento Documento { get; set; }
-       
+        public Usuario Usuario { get; set; }
 
     }
 }
