@@ -23,4 +23,4 @@ namespace Leilão.Domain.Models
     }
 
 }
-}
+

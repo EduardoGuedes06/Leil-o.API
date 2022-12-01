@@ -994,20 +994,6 @@
         "runtime": {
           "bin/placeholder/Leilão.Domain.dll": {}
         }
-      },
-      "Leilão.Service/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "E:\\Projetos\\ApiLeilao\\Leilão\\src\\interprise.Domain\\interprise.Domain.csproj": "1.0.0",
-          "FluentValidation.AspNetCore": "11.2.2"
-        },
-        "compile": {
-          "bin/placeholder/Leilão.Service.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Leilão.Service.dll": {}
-        }
       }
     }
   },
@@ -2512,17 +2498,11 @@
       "type": "project",
       "path": "../Leilão.Domain/Leilão.Domain.csproj",
       "msbuildProject": "../Leilão.Domain/Leilão.Domain.csproj"
-    },
-    "Leilão.Service/1.0.0": {
-      "type": "project",
-      "path": "../Leilão.Service/Leilão.Service.csproj",
-      "msbuildProject": "../Leilão.Service/Leilão.Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Leilão.Domain >= 1.0.0",
-      "Leilão.Service >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.9",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.9",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.9",
@@ -2559,9 +2539,6 @@
           "projectReferences": {
             "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Domain\\Leilão.Domain.csproj": {
               "projectPath": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Domain\\Leilão.Domain.csproj"
-            },
-            "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Service\\Leilão.Service.csproj": {
-              "projectPath": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Service\\Leilão.Service.csproj"
             }
           }
         }
@@ -2620,16 +2597,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Não é possível encontrar o projeto 'E:\\Projetos\\ApiLeilao\\Leilão\\src\\interprise.Domain\\interprise.Domain.csproj'. Verifique se a referência do projeto é válida e se o arquivo de projeto existe.",
-      "libraryId": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\interprise.Domain\\interprise.Domain.csproj",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  }
 }

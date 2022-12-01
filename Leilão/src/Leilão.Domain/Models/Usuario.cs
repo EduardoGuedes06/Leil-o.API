@@ -8,7 +8,6 @@ namespace Leilão.Domain.Models
         public string Senha { get; set; }
 
         public IEnumerable<Lance> lances { get; set; }
-        
-
+        public Pessoa Pessoa { get; set; }
     }
 }

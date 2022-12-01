@@ -5,7 +5,7 @@ using Data.context;
 
 namespace Data.repository
 {
-    public class CategoriaRepository : Repository<Categoria>, ICategoriaRepository
+    public class CategoriaRepository : Repository<Categoria>/*, ICategoriaRepository*/
     {
         public CategoriaRepository(MeuDbContext context) : base(context)
         {

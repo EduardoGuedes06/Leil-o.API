@@ -10,13 +10,30 @@ namespace Data.mappings
         {
             builder.HasKey(p => p.Id);
 
-            builder.Property(p => p.Descricao)
+            builder.Property(p => p.Edital)
                 .IsRequired()
                 .HasColumnType("varchar(200)");
 
-            builder.Property(p => p.Preco)
+            builder.Property(p => p.Meta)
                 .IsRequired()
-                .HasColumnType("INT");
+                .HasColumnType("DECIMAL");
+
+            builder.Property(p => p.Comitentes)
+                .IsRequired()
+                .HasColumnType("varchar(200)");
+
+            builder.Property(p => p.Nome)
+                .IsRequired()
+                .HasColumnType("varchar(200)");
+
+            builder.Property(p => p.Natureza)
+                .IsRequired()
+                .HasColumnType("varchar(200)");
+
+            // 1 : N => Categoria : Produtos
+            builder.HasMany(f => f.Leiloes)
+                .WithOne(p => p.Produto)
+                .HasForeignKey(p => p.produtoId);
 
 
             builder.ToTable("Produtos");

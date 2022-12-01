@@ -30,8 +30,7 @@ namespace Leilão.Data.mappings
             builder.HasOne(f => f.Documento)
                .WithOne(e => e.Pessoa);
 
-            builder.HasOne(f => f.Usuario)
-               .WithOne(e => e.Pessoa);
+        
 
 
             builder.ToTable("Pessoas");

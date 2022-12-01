@@ -3,3 +3,15 @@ C:\Projetos\C#\PROJETOS 4UCode\LEILAO-API\Leil-o.API\Leilão\src\Leilão.Domain\
 C:\Projetos\C#\PROJETOS 4UCode\LEILAO-API\Leil-o.API\Leilão\src\Leilão.Domain\obj\Debug\net6.0\Leilão.Domain.AssemblyInfoInputs.cache
 C:\Projetos\C#\PROJETOS 4UCode\LEILAO-API\Leil-o.API\Leilão\src\Leilão.Domain\obj\Debug\net6.0\Leilão.Domain.AssemblyInfo.cs
 C:\Projetos\C#\PROJETOS 4UCode\LEILAO-API\Leil-o.API\Leilão\src\Leilão.Domain\obj\Debug\net6.0\Leilão.Domain.csproj.CoreCompileInputs.cache
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Domain\bin\Debug\net6.0\Leilão.Domain.deps.json
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Domain\bin\Debug\net6.0\Leilão.Domain.dll
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Domain\bin\Debug\net6.0\Leilão.Domain.pdb
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Domain\obj\Debug\net6.0\Leilão.Domain.csproj.AssemblyReference.cache
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Domain\obj\Debug\net6.0\Leilão.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Domain\obj\Debug\net6.0\Leilão.Domain.AssemblyInfoInputs.cache
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Domain\obj\Debug\net6.0\Leilão.Domain.AssemblyInfo.cs
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Domain\obj\Debug\net6.0\Leilão.Domain.csproj.CoreCompileInputs.cache
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Domain\obj\Debug\net6.0\Leilão.Domain.dll
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Domain\obj\Debug\net6.0\refint\Leilão.Domain.dll
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Domain\obj\Debug\net6.0\Leilão.Domain.pdb
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Domain\obj\Debug\net6.0\ref\Leilão.Domain.dll
