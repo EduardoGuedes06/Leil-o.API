@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Leilão.Data.mappings
 {
-    public class LanceMapping : IEntityTypeConfiguration<Lance>
+    public class dLanceMapping : IEntityTypeConfiguration<Lance>
     {
         public void Configure(EntityTypeBuilder<Lance> builder)
         {

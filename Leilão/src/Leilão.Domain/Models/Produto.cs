@@ -18,12 +18,14 @@ namespace Business.Models
         public string Edital { get; set; }
         public string Comitentes { get; set; }
 
-        public string Meta { get; set; }
+        public decimal Meta { get; set; }
 
         public string? Acrescimo { get; set; }
 
         public string Natureza { get; set; }
         public Categoria Categoria { get; set; }
+
+        public IEnumerable<Leilao> Leiloes { get; set; }
 
     }
 }

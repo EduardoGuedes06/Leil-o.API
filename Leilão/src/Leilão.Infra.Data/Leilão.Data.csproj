@@ -22,7 +22,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Leilão.Domain\Leilão.Domain.csproj" />
-    <ProjectReference Include="..\Leilão.Service\Leilão.Service.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,0 +1,17 @@
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Infra.Data\bin\Debug\net6.0\Leilão.Data.deps.json
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Infra.Data\bin\Debug\net6.0\Leilão.Data.runtimeconfig.json
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Infra.Data\bin\Debug\net6.0\Leilão.Data.dll
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Infra.Data\bin\Debug\net6.0\Leilão.Data.pdb
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Infra.Data\bin\Debug\net6.0\Leilão.Domain.dll
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Infra.Data\bin\Debug\net6.0\Leilão.Domain.pdb
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Infra.Data\obj\Debug\net6.0\Leilão.Data.csproj.AssemblyReference.cache
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Infra.Data\obj\Debug\net6.0\Leilão.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Infra.Data\obj\Debug\net6.0\Leilão.Data.AssemblyInfoInputs.cache
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Infra.Data\obj\Debug\net6.0\Leilão.Data.AssemblyInfo.cs
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Infra.Data\obj\Debug\net6.0\Leilão.Data.csproj.CoreCompileInputs.cache
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Infra.Data\obj\Debug\net6.0\Leilão.Data.csproj.CopyComplete
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Infra.Data\obj\Debug\net6.0\Leilão.Data.dll
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Infra.Data\obj\Debug\net6.0\refint\Leilão.Data.dll
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Infra.Data\obj\Debug\net6.0\Leilão.Data.pdb
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Infra.Data\obj\Debug\net6.0\Leilão.Data.genruntimeconfig.cache
+E:\Projetos\ApiLeilao\Leilão\src\Leilão.Infra.Data\obj\Debug\net6.0\ref\Leilão.Data.dll

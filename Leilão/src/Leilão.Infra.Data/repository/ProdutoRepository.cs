@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Data.repository
 {
-    public class ProdutoRepository : Repository<Produto>, IProdutoRepository
+    public class ProdutoRepository : Repository<Produto>/*IProdutoRepository*/
     {
         public ProdutoRepository(MeuDbContext context) : base(context) { }
 
@@ -21,10 +21,10 @@ namespace Data.repository
                 .FirstOrDefaultAsync(p => p.Id == id);
         }
 
-        public async Task<IEnumerable<Produto>> ObterProdutosCategorias()
-        {
-            return await Db.Produtos.AsNoTracking().Include(f => f.Categoria)
-               .OrderBy(p => p.Descricao).ToListAsync();
-        }
+        //public async Task<IEnumerable<Produto>> ObterProdutosCategorias()
+        //{
+        //    return await Db.Produtos.AsNoTracking().Include(f => f.Categoria)
+        //      /* .OrderBy(p => p.Descricao).ToListAsync()*/;
+        //}
     }
 }
