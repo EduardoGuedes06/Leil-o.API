@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Service\\Services\\Leilao.CategoriaAPi\\Leilao.CategoriaAPi.csproj": {}
+    "D:\\Projetos\\C#\\PROJETOS 4UCode\\Leilão\\Leilão\\src\\Leilão.Service\\Services\\Leilao.CategoriaAPi\\Leilao.CategoriaAPi.csproj": {}
   },
   "projects": {
-    "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Service\\Services\\Leilao.CategoriaAPi\\Leilao.CategoriaAPi.csproj": {
+    "D:\\Projetos\\C#\\PROJETOS 4UCode\\Leilão\\Leilão\\src\\Leilão.Service\\Services\\Leilao.CategoriaAPi\\Leilao.CategoriaAPi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Service\\Services\\Leilao.CategoriaAPi\\Leilao.CategoriaAPi.csproj",
+        "projectUniqueName": "D:\\Projetos\\C#\\PROJETOS 4UCode\\Leilão\\Leilão\\src\\Leilão.Service\\Services\\Leilao.CategoriaAPi\\Leilao.CategoriaAPi.csproj",
         "projectName": "Leilao.CategoriaAPi",
-        "projectPath": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Service\\Services\\Leilao.CategoriaAPi\\Leilao.CategoriaAPi.csproj",
-        "packagesPath": "C:\\Users\\Amanda Luiza\\.nuget\\packages\\",
-        "outputPath": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Service\\Services\\Leilao.CategoriaAPi\\obj\\",
+        "projectPath": "D:\\Projetos\\C#\\PROJETOS 4UCode\\Leilão\\Leilão\\src\\Leilão.Service\\Services\\Leilao.CategoriaAPi\\Leilao.CategoriaAPi.csproj",
+        "packagesPath": "C:\\Users\\Eduardo\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\C#\\PROJETOS 4UCode\\Leilão\\Leilão\\src\\Leilão.Service\\Services\\Leilao.CategoriaAPi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Amanda Luiza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Eduardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
