@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\C#\\PROJETOS 4UCode\\Leilão\\Leilão\\src\\Leilão.Application\\Mvc\\Leilao.WebApp.Mvc\\Leilao.WebApp.Mvc\\Leilao.WebApp.Mvc.csproj": {}
+    "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Application\\Mvc\\Leilao.WebApp.Mvc\\Leilao.WebApp.Mvc\\Leilao.WebApp.Mvc.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\C#\\PROJETOS 4UCode\\Leilão\\Leilão\\src\\Leilão.Application\\Mvc\\Leilao.WebApp.Mvc\\Leilao.WebApp.Mvc\\Leilao.WebApp.Mvc.csproj": {
+    "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Application\\Mvc\\Leilao.WebApp.Mvc\\Leilao.WebApp.Mvc\\Leilao.WebApp.Mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\C#\\PROJETOS 4UCode\\Leilão\\Leilão\\src\\Leilão.Application\\Mvc\\Leilao.WebApp.Mvc\\Leilao.WebApp.Mvc\\Leilao.WebApp.Mvc.csproj",
+        "projectUniqueName": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Application\\Mvc\\Leilao.WebApp.Mvc\\Leilao.WebApp.Mvc\\Leilao.WebApp.Mvc.csproj",
         "projectName": "Leilao.WebApp.Mvc",
-        "projectPath": "D:\\Projetos\\C#\\PROJETOS 4UCode\\Leilão\\Leilão\\src\\Leilão.Application\\Mvc\\Leilao.WebApp.Mvc\\Leilao.WebApp.Mvc\\Leilao.WebApp.Mvc.csproj",
-        "packagesPath": "C:\\Users\\Eduardo\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\C#\\PROJETOS 4UCode\\Leilão\\Leilão\\src\\Leilão.Application\\Mvc\\Leilao.WebApp.Mvc\\Leilao.WebApp.Mvc\\obj\\",
+        "projectPath": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Application\\Mvc\\Leilao.WebApp.Mvc\\Leilao.WebApp.Mvc\\Leilao.WebApp.Mvc.csproj",
+        "packagesPath": "C:\\Users\\Amanda Luiza\\.nuget\\packages\\",
+        "outputPath": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Application\\Mvc\\Leilao.WebApp.Mvc\\Leilao.WebApp.Mvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Eduardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Amanda Luiza\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -72,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
