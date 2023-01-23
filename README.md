@@ -21,7 +21,7 @@ Para front-end:
 
 # Ferramentas:
 	-Para edição de texto e a programação em si foi utilizada a IDE Visual Studio; 
- 
+
 
 # Contato: 
 	Eduardo Guedes
