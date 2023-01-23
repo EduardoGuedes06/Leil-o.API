@@ -21,8 +21,4 @@
     </PackageReference>
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Leilap.Produto.Business\Leilao.Produto.Business.csproj" />
-  </ItemGroup>
-
 </Project>

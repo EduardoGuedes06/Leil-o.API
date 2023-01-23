@@ -1,10 +1,6 @@
-﻿using Leilao.Entity;
-using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿
+using Entity;
 using System.Linq.Expressions;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Leilao.Intefaces
 {

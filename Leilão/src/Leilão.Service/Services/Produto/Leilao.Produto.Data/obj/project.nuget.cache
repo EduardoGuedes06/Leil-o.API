@@ -1,12 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "2iaoXCknVO8E8gioJuN32uZYKBmKheJkYH7UterKGm2C+m0nGpIAuZAKWIGOYn0EBnaWPNwjuNml9c9ONpkBZQ==",
+  "dgSpecHash": "kp9tHuoaAjE1K9PJELjPOoh/f04pW73PlDfzii6Ye/PA8bpICELrMXdzEgb2uGtTgh6B1fZp+7Ox6Ziz4fBPNQ==",
   "success": true,
   "projectFilePath": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Service\\Services\\Produto\\Leilao.Produto.Data\\Leilao.Produto.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Amanda Luiza\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Amanda Luiza\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
-    "C:\\Users\\Amanda Luiza\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512",
     "C:\\Users\\Amanda Luiza\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Amanda Luiza\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Amanda Luiza\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

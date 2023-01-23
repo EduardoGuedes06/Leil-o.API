@@ -4,10 +4,11 @@ using Leilao.Produto.Api.ViewModels;
 using Leilao.Produto.Business.Interfaces;
 using Leilao.Produto.Business.Models;
 using Microsoft.AspNetCore.Mvc;
+using Entity;
 
 namespace Leilão.Produto.Api.Controllers
 {
-    [Route("api/Veiculos")]
+    [Route("api/Produtos")]
     public class VeiculoController : MainController
     {
         public readonly IProdutoRepository _repository;
@@ -81,9 +82,6 @@ namespace Leilão.Produto.Api.Controllers
             return CostumResponse(produtoViewModel);
         }
 
-        public Task Adicionar(ProdutoModel newTodo)
-        {
-            throw new NotImplementedException();
-        }
+        
     }
 }

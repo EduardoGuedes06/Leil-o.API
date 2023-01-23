@@ -1,7 +1,7 @@
-﻿using Entity;
-using Leilao.Intefaces;
-using Microsoft.AspNetCore.Mvc.ModelBinding;
+﻿using Microsoft.AspNetCore.Mvc.ModelBinding;
 using Microsoft.AspNetCore.Mvc;
+using Leilao.Intefaces;
+using Entity;
 
 namespace Leilão.Produto.Api.Controllers
 {
@@ -17,7 +17,6 @@ namespace Leilão.Produto.Api.Controllers
         protected MainController(INotificador notificador)
         {
             _notificador = notificador;
-
 
         }
 

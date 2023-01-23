@@ -46,19 +46,6 @@
           }
         }
       },
-      "FluentValidation/11.4.0": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/FluentValidation.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net6.0/FluentValidation.dll": {
-            "related": ".xml"
-          }
-        }
-      },
       "Humanizer.Core/2.14.1": {
         "type": "package",
         "compile": {
@@ -1168,44 +1155,6 @@
             "rid": "win"
           }
         }
-      },
-      "Entity/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/Entity.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Entity.dll": {}
-        }
-      },
-      "Intefaces/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Entity": "1.0.0",
-          "FluentValidation": "11.4.0"
-        },
-        "compile": {
-          "bin/placeholder/Intefaces.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Intefaces.dll": {}
-        }
-      },
-      "Leilao.Produto.Business/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Entity": "1.0.0",
-          "Intefaces": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Leilao.Produto.Business.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Leilao.Produto.Business.dll": {}
-        }
       }
     }
   },
@@ -1246,29 +1195,6 @@
         "azureicon.png",
         "lib/netstandard2.0/Azure.Identity.dll",
         "lib/netstandard2.0/Azure.Identity.xml"
-      ]
-    },
-    "FluentValidation/11.4.0": {
-      "sha512": "WZJyrNf4suiaI6avVG32W9kmBLC3+V5rDTcLeRJjeU4tDmTyDIOz1459DzCKppXs34YpZg9rCUzDY3M4XxG7Ug==",
-      "type": "package",
-      "path": "fluentvalidation/11.4.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "README.md",
-        "fluent-validation-icon.png",
-        "fluentvalidation.11.4.0.nupkg.sha512",
-        "fluentvalidation.nuspec",
-        "lib/net5.0/FluentValidation.dll",
-        "lib/net5.0/FluentValidation.xml",
-        "lib/net6.0/FluentValidation.dll",
-        "lib/net6.0/FluentValidation.xml",
-        "lib/net7.0/FluentValidation.dll",
-        "lib/net7.0/FluentValidation.xml",
-        "lib/netstandard2.0/FluentValidation.dll",
-        "lib/netstandard2.0/FluentValidation.xml",
-        "lib/netstandard2.1/FluentValidation.dll",
-        "lib/netstandard2.1/FluentValidation.xml"
       ]
     },
     "Humanizer.Core/2.14.1": {
@@ -3574,26 +3500,10 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
-    },
-    "Entity/1.0.0": {
-      "type": "project",
-      "path": "../../../../../ClassLibrary1/Entity.csproj",
-      "msbuildProject": "../../../../../ClassLibrary1/Entity.csproj"
-    },
-    "Intefaces/1.0.0": {
-      "type": "project",
-      "path": "../../../../Leilão.Domain/Intefaces/Intefaces.csproj",
-      "msbuildProject": "../../../../Leilão.Domain/Intefaces/Intefaces.csproj"
-    },
-    "Leilao.Produto.Business/1.0.0": {
-      "type": "project",
-      "path": "../Leilap.Produto.Business/Leilao.Produto.Business.csproj",
-      "msbuildProject": "../Leilap.Produto.Business/Leilao.Produto.Business.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Leilao.Produto.Business >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 7.0.1",
       "Microsoft.EntityFrameworkCore.Abstractions >= 7.0.1",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.1",
@@ -3628,11 +3538,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Service\\Services\\Produto\\Leilap.Produto.Business\\Leilao.Produto.Business.csproj": {
-              "projectPath": "E:\\Projetos\\ApiLeilao\\Leilão\\src\\Leilão.Service\\Services\\Produto\\Leilap.Produto.Business\\Leilao.Produto.Business.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
